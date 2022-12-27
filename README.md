@@ -4,9 +4,9 @@
 <h3 align="center">I am a geophysicist out of Houston Texas.</h3>
 
 <img align="right" alt="Coding" width="200" src="https://developers.google.com/static/earth-engine/tutorials/community/modis-ndvi-time-series-animation/modis-ndvi-time-series-animation.gif">
-- 🌱 I’m currently learning **distributed systems, AI, data engineering, and enterprise architecture**
+- 🌱 I’m currently learning distributed systems, AI, data engineering, and enterprise architecture**
 
-- 💬 Ask me about **python, distributed systems, AI, and data engineering**
+- 💬 Ask me about <strong> python, distributed systems, AI, and data engineering </strong>
 
 - 📫 How to reach me **aadehamid@gmail.com**
 
